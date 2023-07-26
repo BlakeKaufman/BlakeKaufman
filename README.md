@@ -15,7 +15,7 @@
     <a href="https://github.com/BlakeKaufman/RedDragonMinigolf-React.js">Minigolf App:</a> A react.js minigolf mobile scorecard web app to remove paper scorecards for a minigolf course.
   </li>
   <li>
-    <a href="https://github.com/BlakeKaufman/RedDragonMinigolf-React.js">Bitcoin education:</a> A Bitcoin education website built in PHP using Stike bitcoin API to accept Bitcoin lightning payments as a scam prevention measure.
+    <a href="https://github.com/BlakeKaufman/Bitlearn">Bitcoin education:</a> A Bitcoin education website built in PHP using Stike bitcoin API to accept Bitcoin lightning payments as a scam prevention measure.
   </li>
   <li>
     <a href="https://github.com/BlakeKaufman/countries_finder_frontendMentor">Countries finder:</a> A js front end using APIs to search for countries.
