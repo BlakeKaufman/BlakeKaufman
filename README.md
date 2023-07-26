@@ -3,7 +3,7 @@
 <hr>
 <h2>I'm 19-year-old, and I love building things.</h2>
 
-<h4>What am I currently working on?n</h4>
+<h4>What am I currently working on?</h4>
 <p>Reading is a big part of my life. And I wanted to re-create a mobile reading application on which you can track your books. I plan on making it a React.js app in the future but I am building out the pages currently. It will use a public API to gather book data, along with a public notifications API that will send users reminders to read. I will also have a login system so that users can be differentiated in the database. </p>
 
 <a href="https://github.com/BlakeKaufman/bookkeeper">Link to repository</a>
