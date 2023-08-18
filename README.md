@@ -4,15 +4,21 @@
 <h2>I'm 19-year-old, and I love building things.</h2>
 
 <h4>What am I currently working on?</h4>
-<p>Reading is a big part of my life. And I wanted to re-create a mobile reading application on which you can track your books. I plan on making it a React.js app in the future but I am building out the pages currently. It will use a public API to gather book data, along with a public notifications API that will send users reminders to read. I will also have a login system so that users can be differentiated in the database. </p>
+<p>
+I have been interested in Bitcoin for around 3 years now. I have mined Bitcoin, tweeted about Bitcoin, and used Bitcoin. But one thing 
+that bothers me is that they're aren't any Bitcoin wallets that have both main chain and lightning integration. Muun is the closest but they are not true lightning. My goal is to combine Phoenix and Muun to make the ultimate Bitcoin mobile wallet. I will be coding this in Native React, which I am learning while doing this project. Make sure to check out my progress, link below.
+</p>
 
-<a href="https://github.com/BlakeKaufman/bookkeeper">Link to repository</a>
+<a href="https://github.com/BlakeKaufman/bitcoin-wallet">Link to repository</a>
 
 <hr>
 <h4>Here are some of my favorite projects</h4>
 <ul>
   <li>
     <a href="https://github.com/BlakeKaufman/RedDragonMinigolf-React.js">Minigolf App:</a> A react.js minigolf mobile scorecard web app to remove paper scorecards for a minigolf course.
+  </li>
+   <li>
+    <a href="https://github.com/BlakeKaufman//bookkeeper">Book Tracking app:</a> A full stack book tracking app built with JavaScrippt and react.js on the front end and Node.js on the backend with MongoDB as a database.
   </li>
   <li>
     <a href="https://github.com/BlakeKaufman/Bitlearn">Bitcoin education:</a> A Bitcoin education website built in PHP using Stike bitcoin API to accept Bitcoin lightning payments as a scam prevention measure.
