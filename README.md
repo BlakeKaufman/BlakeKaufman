@@ -5,8 +5,7 @@
 
 <h4>What am I currently working on?</h4>
 <p>
-I have been interested in Bitcoin for around 3 years now. I have mined Bitcoin, tweeted about Bitcoin, and used Bitcoin. But one thing 
-that bothers me is that they're aren't any Bitcoin wallets that have both main chain and lightning integration. Muun is the closest but they are not true lightning. My goal is to combine Phoenix and Muun to make the ultimate Bitcoin mobile wallet. I will be coding this in Native React, which I am learning while doing this project. Make sure to check out my progress, link below.
+I have been interested in Bitcoin for around 3 years now. I have mined Bitcoin, tweeted about Bitcoin, and used Bitcoin. But now it's time for me to use my coding skills to build a Bitcoin Lightning wallet. Muun is the closest but they are not true lightning. Introducing Blitz Wallet, a fully native Bitcoin Lightning wallet that harnesses the power of the Breez SDK, Blockstream Greenlight, and Boltz to create an unforgettable Lightning experience.
 </p>
 
 <a href="https://github.com/BlakeKaufman/bitcoin-wallet">Link to repository</a>
