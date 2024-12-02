@@ -5,7 +5,7 @@
 
 <h4>What am I currently working on?</h4>
 <p>
-I have been interested in Bitcoin for around 3 years now. I have mined Bitcoin, tweeted about Bitcoin, and used Bitcoin. But now it's time for me to use my coding skills to build a Bitcoin Lightning wallet. Introducing Blitz Wallet, a fully native Bitcoin Lightning, and liquid wallet that harnesses the power of the Breez SDK, Blockstream Greenlight, Blockstream Green Development Kit, and Boltz to create an unforgettable Lightning experience.
+I have been interested in Bitcoin for around 5 years now. I have mined Bitcoin, tweeted about Bitcoin, and used Bitcoin. But now it's time for me to use my coding skills to build a Bitcoin Lightning wallet. Introducing Blitz Wallet, a fully native Bitcoin Lightning, and liquid wallet that harnesses the power of the Breez SDK, Blockstream Greenlight, Blockstream Green Development Kit, and Boltz to create an unforgettable Lightning experience.
 </p>
 
 <a href="https://github.com/BlakeKaufman/BlitzWallet">Link to repository</a>
