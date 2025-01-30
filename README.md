@@ -13,17 +13,17 @@ I have been interested in Bitcoin for around 5 years now. I have mined Bitcoin, 
 <hr>
 <h4>Here are some of my favorite projects</h4>
 <ul>
-  <li>
-    <a href="https://github.com/BlakeKaufman/RedDragonMinigolf-React.js">Minigolf App:</a> A react.js minigolf mobile scorecard web app to remove paper scorecards for a minigolf course.
-  </li>
    <li>
-    <a href="https://github.com/BlakeKaufman//bookkeeper">Book Tracking app:</a> A full stack book tracking app built with JavaScrippt and react.js on the front end and Node.js on the backend with MongoDB as a database.
+    <a href="https://github.com/BlitzWallet/BlitzWallet">Blitz Wallet App:</a> a self-custodial Bitcoin Lightning, Liquid, and Ecash wallet harnessing the power of Boltz, Blockstream, and Breez.
   </li>
   <li>
-    <a href="https://github.com/BlakeKaufman/Bitlearn">Bitcoin education:</a> A Bitcoin education website built in PHP using Stike bitcoin API to accept Bitcoin lightning payments as a scam prevention measure.
+    <a href="https://github.com/BlitzWallet/blitz-wallet-pos">Blitz Wallet Point-of-sale:</a> A point-of-sale online platform giving your business the ability to receive Bitcoin custodial connected to your Blitz Wallet mobile application.
   </li>
   <li>
-    <a href="https://github.com/BlakeKaufman/countries_finder_frontendMentor">Countries finder:</a> A js front end using APIs to search for countries.
+    <a href="https://github.com/BlitzWallet/blitz-website">Blitz Wallet Website:</a> A front-end pr website for Blitz Wallet 
+  </li>
+    <li>
+    <a href="https://github.com/BlakeKaufman/RedDragonMinigolf-React.js">Minigolf App:</a> A react.js minigolf mobile scorecard web app to remove paper scorecards for a minigolf course.
   </li>
 </ul>
 
