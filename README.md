@@ -13,8 +13,12 @@ I have been interested in Bitcoin for around 5 years now. I have mined Bitcoin, 
 <hr>
 <h4>Here are some of my favorite projects</h4>
 <ul>
+  
    <li>
     <a href="https://github.com/BlitzWallet/BlitzWallet">Blitz Wallet App:</a> a self-custodial Bitcoin Lightning, Liquid, and Ecash wallet harnessing the power of Boltz, Blockstream, and Breez.
+  </li>
+    <li>
+    <a href=" https://github.com/BlitzWallet/blitz-web-app">Blitz Wallet Web App:</a> a self-custodial Bitcoin Lightning wallet harnessing the power of Spark on the web.
   </li>
   <li>
     <a href="https://github.com/BlitzWallet/blitz-wallet-pos">Blitz Wallet Point-of-sale:</a> A point-of-sale online platform giving your business the ability to receive Bitcoin custodial connected to your Blitz Wallet mobile application.
